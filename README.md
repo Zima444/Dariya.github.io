@@ -11,10 +11,10 @@
 <H2>Форма обучения - Очно</H2>
 <H2>Квалификация - Бакалавр</H2>
 <IMG SRC="scale_2400.jpg">
-<table border="1" width="100 %">
+<table border="1" width="75 %">
  <tr>
- <td align="center" width="50 %">1 экзамен</td>
- <td align="center" width="50 %">1 вариант вуза</td>
+ <td align="center" width="100 %">1 город</td>
+ <td align="center" width="50 %">4 соединенных агломирации</td>
  </tr>
  <tr>
  <td align="center" width="50 %">карьера и зарплата</td>
