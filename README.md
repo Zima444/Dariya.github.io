@@ -13,12 +13,12 @@
 <IMG SRC="scale_2400.jpg">
 <table border="1" width="75 %">
  <tr>
- <td align="center" width="100 %">1 город</td>
- <td align="center" width="50 %">4 соединенных агломирации</td>
+ <td align="center" width="100 %">Площадь</td>
+ <td align="center" width="50 %">Население</td>
  </tr>
  <tr>
- <td align="center" width="50 %">карьера и зарплата</td>
- <td align="center" width="50 %">профессии 8</td>
+ <td align="center" width="50 %">570 кв. км.</td>
+ <td align="center" width="50 %">683.200 человек</td>
  </tr>
  </table>
 <H2>Донецк — уникальный город, возникший из небольшого посёлка. Сегодня это не просто столица Донбасса, известная промышленными заводами и угледобывающими шахтами, футбольными матчами, широкими улицами и тихими парками..</H2>
