@@ -3,7 +3,7 @@
 </head> 
 <body>
 <H1 ALIGN="center">Название лабы</H1>
-<H2>Город - <A HREF="[https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0]">Москва</A> </H2>
+<H2>Город - <A HREF="[https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0]">Донецк</A> </H2>
 <H2>Язык - Русский</H2> 
 <H2>Уровень образования - Бакалавриат</H2>
 <H2>Формат обучения - Полный курс</H2>
